@@ -5,5 +5,17 @@
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#007bff",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://www.iconpacks.net/icons/2/free-mobile-phone-icon-2636-thumb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.iconpacks.net/icons/2/free-mobile-phone-icon-2636-thumb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
