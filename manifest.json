@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://www.iconpacks.net/icons/2/free-mobile-phone-icon-2636-thumb.png",
+      "src": "img/icono.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://www.iconpacks.net/icons/2/free-mobile-phone-icon-2636-thumb.png",
+      "src": "img/icono.png",
       "sizes": "512x512",
       "type": "image/png"
     }
